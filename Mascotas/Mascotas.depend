@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1621988629 source:c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"validaciones.h"
+
+1621988792 c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\menu.h
+
+1621988197 source:c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"colores.h"
+	"menu.h"
+	"tipos.h"
+
+1621989006 source:c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"colores.h"
+	"menu.h"
+	"datawarehouse.h"
+
+1621989114 c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\colores.h
+
+1621971983 source:c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	"mascotas.h"
+	"colores.h"
+	"tipos.h"
+	"menu.h"
+	"validaciones.h"
+	<string.h>
+
+1621991272 c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\mascotas.h
+	"colores.h"
+	"tipos.h"
+
+1621987911 c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\tipos.h
+	"colores.h"
+
+1621970030 source:c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicios.h"
+
+1621812845 c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\servicios.h
+
+1621972230 source:c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"trabajo.h"
+	"mascotas.h"
+	"servicios.h"
+	"validaciones.h"
+
+1621815756 c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\trabajo.h
+	"tipos.h"
+	"colores.h"
+	"mascotas.h"
+	"servicios.h"
+
+1621989198 source:c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"tipos.h"
+	"colores.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajo.h"
+
+1621987759 c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\datawarehouse.h
+	"tipos.h"
+
+1621987970 source:c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\datawarehouse.c
+	"datawarehouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621962909 source:c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621962911 c:\users\julieta\desktop\laplace.julieta.pplabi\mascotas\validaciones.h
+
+1622037427 source:c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"validaciones.h"
+
+1621988792 c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\menu.h
+
+1621992530 c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\validaciones.h
+
+1621970030 source:c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicios.h"
+
+1621991553 c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\servicios.h
+
+1621988197 source:c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"colores.h"
+	"menu.h"
+	"tipos.h"
+
+1621989114 c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\colores.h
+
+1621991802 c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\tipos.h
+	"colores.h"
+
+1622039784 source:c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"trabajo.h"
+	"mascotas.h"
+	"servicios.h"
+	"validaciones.h"
+	"clientes.h"
+
+1622039574 c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\trabajo.h
+	"tipos.h"
+	"colores.h"
+	"mascotas.h"
+	"servicios.h"
+
+1622032607 c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\mascotas.h
+	"colores.h"
+	"tipos.h"
+	"clientes.h"
+
+1622033491 source:c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"colores.h"
+	"menu.h"
+
+1622031844 source:c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\clientes.c
+	"clientes.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1622031652 c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\clientes.h
+
+1622038236 source:c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	"mascotas.h"
+	"colores.h"
+	"tipos.h"
+	"menu.h"
+	"validaciones.h"
+	"clientes.h"
+	<string.h>
+
+1622040752 source:c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"tipos.h"
+	"colores.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajo.h"
+	"informes.h"
+
+1621992560 source:c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1622040049 source:c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\informes.c
+	"informes.h"
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1622040661 c:\users\julieta\desktop\laplace.julieta.pplabiparte2\mascotas\informes.h
+	"mascotas.h"
+	"trabajo.h"
+
